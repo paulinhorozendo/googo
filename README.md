@@ -13,5 +13,5 @@
 - O react-loader-spinner é um pacote npm que fornece um componente giratório SVG simples e atraente que pode ser usado em qualquer um dos seus projetos.
 - 🔗https://www.geeksforgeeks.org/how-to-use-loading-animation-by-using-the-react-loader-spinner-through-npm/
 
-obs: Realizando testes consumi todas as chamadas de API do plano básico oferecido pela RapidApi. Enão no momento, preciso aguardar a atualização dos recursos para colocar o link do site que já está feito o deploy.
+obs: Realizando testes consumi todas as chamadas de API do plano básico oferecido pela RapidApi. Então no momento, preciso aguardar a atualização dos recursos para colocar o link do site que já está feito o deploy.
 - 🚧 Now loading... 🚧
