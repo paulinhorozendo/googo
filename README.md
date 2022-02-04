@@ -15,6 +15,12 @@
 - 🔗https://www.geeksforgeeks.org/how-to-use-loading-animation-by-using-the-react-loader-spinner-through-npm/
 - Tive algumas dificuldades com este projeto, principalmente por usar uma API de terceiros, gerando alguns bugs no deploy.
 - Porém me proporcionou aprender mais sobre essas dificuldades que geralmente todo Dev enfrenta, e o melhor é a satisfação do resultado final quando tudo é resolvido.
+- 🔗https://googo.netlify.app/videos   
+-  O deploy foi feito na Netlify 🔗https://www.netlify.com/
+- obs: A RapidAPI disponibiliza uma quantidade limitada de chamadas em seu plano gratuito, e após atingir a quota mensal não será possível realizar buscas no site, caso uma busca  não seja realizada esta deve ser uma possível e eventual causa do problema.
 
-obs: Realizando testes consumi todas as chamadas de API do plano básico oferecido pela RapidApi. Então no momento, preciso aguardar a atualização dos recursos para colocar o link do site que já está feito o deploy.
-- 🚧 Now loading... 🚧
+
+
+- ![Captura de tela 2022-02-04 102152](https://user-images.githubusercontent.com/81476932/152539749-83827abd-ad72-4f66-a8a8-4e33e63ed18a.png)
+
+
